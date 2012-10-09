@@ -1,8 +1,8 @@
-Redmine::Plugin.register :open_search do
-  name 'Open Search plugin'
-  author 'Author name'
-  description 'This is a plugin for Redmine'
+Redmine::Plugin.register :redmine_open_search do
+  name 'Redmine Open Search plugin'
+  author 'Mine02C4'
+  description 'This is a plugin for Redmine to add support for OpenSearch.'
   version '0.0.1'
-  url 'http://example.com/path/to/plugin'
-  author_url 'http://example.com/about'
+  url 'https://github.com/Mine02C4/redmine_open_search'
+  author_url 'http://blog.mine-studio.com/'
 end
