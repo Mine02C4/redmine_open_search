@@ -1,3 +1,7 @@
+require 'redmine'
+
+require_dependency 'hooks'
+
 Redmine::Plugin.register :redmine_open_search do
   name 'Redmine Open Search plugin'
   author 'Mine02C4'
