@@ -2,4 +2,13 @@
 
 This is a plugin for Redmine to add support for OpenSearch.
 
-== Attention: This plugin is currently under development.
+== Requirements
+
+* Redmine (2.0.0 or higher)
+* Web browser that supports OpenSearch
+** Firefox (2 or higher)
+** Internet Explorer (7 or higher)
+
+== Installation
+
+http://www.redmine.org/projects/redmine/wiki/Plugins
